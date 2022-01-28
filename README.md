@@ -26,3 +26,15 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   
 - 💼 any freelance work? do reach, [email](#) :)
 - 💬 ask me about anything, i am happy to help;
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Twitter-clone**
+- 🌱 &nbsp; I’m currently learning MERN; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PranayChavhan?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranay-chavhan-38785a224/)
+- 📝 &nbsp; Checkout my [resume](#)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+
+<br>
