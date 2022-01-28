@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Pranay Chavhan" />
+ ![Front-End Developer](https://user-images.githubusercontent.com/85397500/151550554-6e7065a9-2548-4b9d-bc99-3d7081412361.svg)
 </h1>
 
 ## Hey 👋, I'm Pranay Chavhan!
