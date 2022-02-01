@@ -17,7 +17,7 @@
 
 <br />
 
-hi, i'm [Pranay Chavhan](#), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Pranay Chavhan](https://drive.google.com/file/d/1EhCtKr4B3c39KFTj9hMZo6WugBtIpRhn/view?usp=sharing), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
@@ -34,7 +34,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PranayChavhan?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranay-chavhan-38785a224/)
-- 📝 &nbsp; Checkout my [resume](#)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EhCtKr4B3c39KFTj9hMZo6WugBtIpRhn/view?usp=sharing)
 <br>
 
 **Languages and Tools:** 
