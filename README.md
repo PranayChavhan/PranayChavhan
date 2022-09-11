@@ -34,7 +34,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/PranayChavhan?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranay-chavhan-38785a224/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EhCtKr4B3c39KFTj9hMZo6WugBtIpRhn/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://resume.showwcase.com/pranaychavhan.pdf)
 <br>
 
 **Languages and Tools:** 
