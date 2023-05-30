@@ -37,26 +37,8 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 **Languages and Tools:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 
-
-### 📊 Github Stats
-[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChavhan)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayChavhan&hide=TeX&layout=compact)
 
 
 
@@ -87,6 +69,21 @@ Here are some of the languages and tools I work with:
 - **Laravel** 🚀: I am proficient in Laravel, a powerful PHP framework for building web applications. Its expressive syntax and rich ecosystem enable me to create robust and scalable solutions.
 - **Tailwind CSS** 💅: I love using Tailwind CSS for styling my projects. Its utility-first approach and extensive set of pre-built classes make it easy to create visually appealing designs.
 - **Firebase** 🔥: I have utilized Firebase for building scalable and real-time applications. Its features such as authentication, cloud storage, and real-time database have proven invaluable in my projects.
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+
 
 ## 🌱 Learning Journey
 
@@ -108,4 +105,9 @@ If you have any questions, want to collaborate, or just want to say hi, feel fre
 - **Social Media**: You can find me on [Twitter](https://twitter.com/username) and [Instagram](https://instagram.com/username), where I share insights, project updates, and my personal experiences as a developer.
 
 Let's connect and build something amazing together! Whether it's brainstorming ideas, discussing the latest tech trends, or collaborating on exciting projects, I'm eager to be part of the ever-evolving world of software development. 🚀
+
+### 📊 Github Stats
+[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChavhan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayChavhan&hide=TeX&layout=compact)
+
 
