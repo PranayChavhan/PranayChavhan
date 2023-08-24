@@ -2,16 +2,6 @@
    <img alt="Front End Developer" src="https://user-images.githubusercontent.com/85397500/151550554-6e7065a9-2548-4b9d-bc99-3d7081412361.svg" />
 </h1>
 
-<a href="#">
-  <img align="left" alt="Pranay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Pranay Chavhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/pranay-chavhan-38785a224/">
-  <img align="left" alt="Pranay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <br />
 
