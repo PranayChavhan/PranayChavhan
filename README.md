@@ -50,6 +50,6 @@ Let's connect and build something amazing together! Whether it's brainstorming i
 ### 📊 Github Stats
 ![pranaychavhan's Stats](https://github-readme-stats.vercel.app/api?username=pranaychavhan&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![pranaychavhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaychavhan&theme=react&show_icons=true&hide_border=true&layout=compact)
-![pranaychavhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranaychavhan&theme=react&hide_border=true)
+
 
 
