@@ -9,13 +9,12 @@
 
 # 👋 Hello, I'm Pranay Chavhan!
 
-I am a passionate self-taught **Full Stack Developer** and **Flutter** enthusiast from **India** 🇮🇳. I love building elegant interfaces and turning ideas into reality. With a keen eye for detail, I strive to deliver exceptional experiences, maintain clean architecture, and write high-quality code.
+I am a passionate self-taught **Full Stack Developer** and **AI** enthusiast from **India** 🇮🇳. I love building elegant interfaces and turning ideas into reality. With a keen eye for detail, I strive to deliver exceptional experiences, maintain clean architecture, and write high-quality code.
 
 ## 💻 Technologies and Tools
 
 Here are some of the languages and tools I work with:
 
-- **Flutter** 📱: I enjoy developing cross-platform mobile applications using Flutter. Its fast development cycle and beautiful UI capabilities make it a joy to work with.
 - **React.js** ⚛️: I have expertise in React.js, a popular JavaScript library for building user interfaces. Its component-based approach and virtual DOM make it efficient and flexible for creating dynamic web applications.
 - **Node.js** ⚡: I have hands-on experience with Node.js, a powerful JavaScript runtime environment. It allows me to build scalable and efficient server-side applications.
 - **Express.js** 🌐: I leverage Express.js, a minimalist web application framework for Node.js, to build robust APIs and handle server-side routing.
@@ -33,9 +32,7 @@ I recently completed a project called "**SignSense**," which involved building a
 
 ## 🔨 Projects and GitHub
 
-Most of my projects are available on GitHub, where I showcase my coding skills and the creative solutions I have developed. You can check them out at [my GitHub profile](https://www.linkedin.com/in/pranay-chavhan-38785a224/). Each project represents a unique challenge and demonstrates my ability to tackle diverse problem domains.
-
-Currently, I'm actively working on a **Twitter clone** project, where I'm honing my skills in building scalable social media platforms. I'm crafting an intuitive user interface, implementing real-time updates, and ensuring data security. It's an exciting endeavor, and I can't wait to share the final product with the world! 🐦
+Most of my projects are available on GitHub, where I showcase my coding skills and the creative solutions I have developed. You can check them out at [my GitHub profile](https://github.com/PranayChavhan/PranayChavhan). Each project represents a unique challenge and demonstrates my ability to tackle diverse problem domains.
 
 ## 🌍 Connect with Me
 
@@ -44,7 +41,7 @@ If you have any questions, want to collaborate, or just want to say hi, feel fre
 - **LinkedIn**: [Pranay Chavhan](https://www.linkedin.com/in/pranay-chavhan-38785a224/)
 - **Email**: pranaychavhan2102@gmail.com
 - **Portfolio/Resume**: [Check out my resume](https://pranaychavhan.netlify.app/)
-- **Social Media**: You can find me on [Twitter](https://twitter.com/username) and [Instagram](https://instagram.com/username), where I share insights, project updates, and my personal experiences as a developer.
+- **Social Media**: You can find me on [Twitter](https://twitter.com/username) and [Instagram](https://instagram.com/p.r.a.n.a.y_chavhan), where I share insights, project updates, and my personal experiences as a developer.
 
 Let's connect and build something amazing together! Whether it's brainstorming ideas, discussing the latest tech trends, or collaborating on exciting projects, I'm eager to be part of the ever-evolving world of software development. 🚀
 
