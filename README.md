@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="Front End Developer" src="https://github.com/PranayChavhan/PranayChavhan/assets/85397500/36470d8c-38d8-4147-a360-20639b0ec358" />
+   <img alt="Full Stack Developer" src="https://github.com/PranayChavhan/PranayChavhan/assets/85397500/36470d8c-38d8-4147-a360-20639b0ec358" />
 </h1>
 
 
