@@ -10,7 +10,7 @@
 # 👋 Hello, I'm Pranay Chavhan!
 
 I am a passionate self-taught **Full Stack Developer** and **AI** enthusiast from **India** 🇮🇳. I love building elegant interfaces and turning ideas into reality. With a keen eye for detail, I strive to deliver exceptional experiences, maintain clean architecture, and write high-quality code.
-
+[![](https://visitcount.itsvg.in/api?id=pranaychavhan&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ## 💻 Technologies and Tools
 
 Here are some of the languages and tools I work with:
