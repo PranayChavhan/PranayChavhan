@@ -46,7 +46,7 @@ If you have any questions, want to collaborate, or just want to say hi, feel fre
 Let's connect and build something amazing together! Whether it's brainstorming ideas, discussing the latest tech trends, or collaborating on exciting projects, I'm eager to be part of the ever-evolving world of software development. 🚀
 
 ### 📊 Github Stats
-[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChavhan)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayChavhan&hide=TeX&layout=compact)
-
+![pranaychavhan's Stats](https://github-readme-stats.vercel.app/api?username=pranaychavhan&theme=react&show_icons=true&hide_border=true&count_private=true)
+![pranaychavhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranaychavhan&theme=react&hide_border=true)
+![pranaychavhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaychavhan&theme=react&show_icons=true&hide_border=true&layout=compact)
 
